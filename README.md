@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm [your name], a passionate programmer and software developer based around Strasbourg, France, currently studying at EPITA.
+I'm Patrick Holtzmann, a passionate programmer and software developer based around Strasbourg, France, currently studying at EPITA.
 
 - 🔭 I’m currently working on personal computer science projects.
 - 🌱 I'm proficient in C#, OCaml, Python, MySQL, Arduino, HTML, and CSS.
